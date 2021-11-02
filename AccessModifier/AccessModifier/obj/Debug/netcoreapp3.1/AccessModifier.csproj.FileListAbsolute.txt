@@ -1,0 +1,13 @@
+D:\Aztu-P202\AccessModifier\AccessModifier\bin\Debug\netcoreapp3.1\AccessModifier.exe
+D:\Aztu-P202\AccessModifier\AccessModifier\bin\Debug\netcoreapp3.1\AccessModifier.deps.json
+D:\Aztu-P202\AccessModifier\AccessModifier\bin\Debug\netcoreapp3.1\AccessModifier.runtimeconfig.json
+D:\Aztu-P202\AccessModifier\AccessModifier\bin\Debug\netcoreapp3.1\AccessModifier.runtimeconfig.dev.json
+D:\Aztu-P202\AccessModifier\AccessModifier\bin\Debug\netcoreapp3.1\AccessModifier.dll
+D:\Aztu-P202\AccessModifier\AccessModifier\bin\Debug\netcoreapp3.1\AccessModifier.pdb
+D:\Aztu-P202\AccessModifier\AccessModifier\obj\Debug\netcoreapp3.1\AccessModifier.csprojAssemblyReference.cache
+D:\Aztu-P202\AccessModifier\AccessModifier\obj\Debug\netcoreapp3.1\AccessModifier.AssemblyInfoInputs.cache
+D:\Aztu-P202\AccessModifier\AccessModifier\obj\Debug\netcoreapp3.1\AccessModifier.AssemblyInfo.cs
+D:\Aztu-P202\AccessModifier\AccessModifier\obj\Debug\netcoreapp3.1\AccessModifier.csproj.CoreCompileInputs.cache
+D:\Aztu-P202\AccessModifier\AccessModifier\obj\Debug\netcoreapp3.1\AccessModifier.dll
+D:\Aztu-P202\AccessModifier\AccessModifier\obj\Debug\netcoreapp3.1\AccessModifier.pdb
+D:\Aztu-P202\AccessModifier\AccessModifier\obj\Debug\netcoreapp3.1\AccessModifier.genruntimeconfig.cache
